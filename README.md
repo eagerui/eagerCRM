@@ -1,5 +1,22 @@
 # eagerCRM
 
+# Technologies
+You will be using the following tools to build this application:
+
+NestJS as the backend framework
+Prisma as the Object-Relational Mapper (ORM)
+PostgreSQL as the database
+Swagger as the API documentation tool
+TypeScript as the programming language
+
+# Development environment
+To follow along with this tutorial, you will be expected to:
+
+- Node.js installed.
+- Docker or PostgreSQL installed.
+- Prisma VSCode Extension installed. (optional)
+
+
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
 ✨ Your new, shiny [Nx workspace](https://nx.dev) is almost ready ✨.
